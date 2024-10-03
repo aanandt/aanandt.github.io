@@ -1,10 +1,10 @@
 ---
 title: "Linear Prediction on Cent Scale for Fundamental~Frequency~(f0) Analysis"
 collection: publications
-permalink: /publication/2024-JASA-paper.md
+permalink: /publication/2024-JASA-paper
 excerpt: 'Understanding the fundamental frequency and harmonic content of audio signals is crucial for many applications in music analysis, including music transcription, audio synthesis, and genre identification. This study formulates a signal processing approach combining Linear Prediction (LP) analysis and the Cent scale to characterize audio signals’ pitch and harmonic structure
 accurately. Pitch tracking on the LP spectrum in the Cent scale provides more accurate and reliable pitch estimation, especially in the presence of noise or overlapping harmonics. The Cent scale aligns the harmonics of different notes more closely, making it easier to discern the correct pitch.'
-date: 2024-10-01
+date: 2024-01-10
 venue: 'Proceedings of JASA Express Letters'
 #paperurl: 'https://www.isca-archive.org/interspeech_2021/kumar21e_interspeech.pdf'
 pdf: 'https://aanandt.github.io/files/JASA_EL_2024_LP_Pitch.pdf'
