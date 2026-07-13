@@ -1,7 +1,7 @@
 ---
 title: "Development of a deep learning model for intussusception using point-of-care ultrasound"
 collection: publications
-permalink: /publication/2026-july-pocus-ultrasound.md
+permalink: /publication/2026-july-pocus-ultrasound
 excerpt: 'This study evaluated the feasibility of using deep learning to detect intussusception from point-of-care ultrasound (POCUS) images in pediatric patients. A dataset comprising 785 ultrasound images and video clips from 49 patients, including 8 confirmed cases of intussusception, was preprocessed by enhancing image quality, extracting the region of interest, and converting video clips into static image frames, resulting in 1,582 intussusception and 1,965 normal images for model training. Multiple artificial intelligence approaches, including classical machine learning, ensemble learning, transfer learning, and fine-tuned deep learning models, were developed and compared. The fine-tuned models demonstrated superior performance across patient-level, image-level, and threshold-based analyses, with the threshold-based approach achieving the highest predictive accuracy. These findings demonstrate the feasibility of developing an AI-assisted screening tool for identifying the ultrasound target sign of intussusception using relatively small POCUS datasets, highlighting its potential to improve early diagnosis in emergency settings where pediatric imaging expertise may be limited.'
 date: 2026-07-06
 venue: ' Frontiers in Radiology'
