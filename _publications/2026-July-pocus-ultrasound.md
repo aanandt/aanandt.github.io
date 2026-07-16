@@ -6,11 +6,11 @@ excerpt: 'This study evaluated the feasibility of using deep learning to detect 
 date: 2026-07-06
 venue: ' Frontiers in Radiology'
 paperurl: 'https://www.frontiersin.org/journals/radiology/articles/10.3389/fradi.2026.1812587/full'
-pdf: 'https://aanandt.github.io/files/Pocus-ultrasound.pdf.pdf'
+pdf: 'https://aanandt.github.io/files/Pocus-ultrasound.pdf'
 citation: 'Anand Thyagachandran, Lefchak B, Murthy HA, Bergmann KR and Madhok M. "Development of a deep learning model for intussusception using point-of-care ultrasound". in Front. Radiol. 6:1812587. doi: 10.3389/fradi.2026.1812587'
 ---
 
-[Download paper here](https://aanandt.github.io/files/Pocus-ultrasound.pdf.pdf){:target="_blank"}
+[Download paper here](https://aanandt.github.io/files/Pocus-ultrasound.pdf){:target="_blank"}
 <div> 
 <div id="adobe-dc-view" style="width: 100%;"></div> 
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script> 
@@ -18,7 +18,7 @@ citation: 'Anand Thyagachandran, Lefchak B, Murthy HA, Bergmann KR and Madhok M.
 document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
 var adobeDCView = new AdobeDC.View({clientId: "a9f90938a3af4ae8b97f7768ee680c05", divId: "adobe-dc-view"});
 adobeDCView.previewFile({
-content:{location: {url: "https://aanandt.github.io/files/Pocus-ultrasound.pdf.pdf"}},
+content:{location: {url: "https://aanandt.github.io/files/Pocus-ultrasound.pdf"}},
 metaData:{fileName: "Pocus-ultrasound.pdf.pdf"}
 }, {embedMode: "IN_LINE"});
 });
